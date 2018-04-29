@@ -12,3 +12,9 @@ Run it listening on port 8088 of the docker host
 ```
 docker run --name tmp-nginx -d -p 8088:80 test-nginx
 ```
+
+Refs:
+
+http://nginx.org/en/docs/
+
+https://hub.docker.com/_/nginx/
